@@ -1,0 +1,5 @@
+title: Geospatial Observation and Applications Lab (GOAL)
+description: Research in geospatial analysis, remote sensing, and hydrological modeling.
+theme: minima  # This applies a basic Jekyll theme (we can change it later).
+plugins:
+  - jekyll-feed
