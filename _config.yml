@@ -12,7 +12,7 @@ plugins:
 name: "GOAL Lab"
 author:
   name: "Dr. Shanti Shwarup Mahto"
-  email: "your-email@cuj.ac.in"
+  email: "ssmahto.clim@gmail.com"
 
 # Custom Styles
 sass:
