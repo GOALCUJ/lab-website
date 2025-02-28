@@ -1,0 +1,20 @@
+title: "Geospatial Observation and Applications Lab (GOAL)"
+description: "Research in geospatial analysis, remote sensing, and hydrological modeling."
+remote_theme: "mmistakes/minimal-mistakes"  # Using a professional Jekyll theme
+
+# Plugins
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Site Settings
+name: "GOAL Lab"
+author:
+  name: "Dr. Shanti Shwarup Mahto"
+  email: "your-email@cuj.ac.in"
+
+# Custom Styles
+sass:
+  sass_dir: _sass
+  style: compressed
