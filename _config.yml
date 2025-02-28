@@ -30,3 +30,11 @@ social:
   github: your-github-username
   twitter: your-twitter-handle
   linkedin: your-linkedin-profile
+  
+# Custom Stylesheet
+sass:
+  sass_dir: _sass
+  style: compressed
+
+include:
+  - "assets/css/custom.css"
