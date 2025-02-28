@@ -10,7 +10,7 @@ plugins:
 name: "GOAL Lab"
 author:
   name: "Dr. Shanti Shwarup Mahto"
-  email: "your-email@cuj.ac.in"
+  email: "ssmahto.clim@gmail.com"
 
 # Navigation (Modify this based on your needs)
 nav:
@@ -29,7 +29,8 @@ nav:
 social:
   github: your-github-username
   twitter: your-twitter-handle
-  linkedin: your-linkedin-profile
+  linkedin: https://www.linkedin.com/in/shanti-shwarup-mahto-phd-490422121/
+  personal: https://sites.google.com/view/dr-ssmahto/monitoring-and-early-warning
   
 # Custom Stylesheet
 sass:
