@@ -1,0 +1,11 @@
+- name: "Dr. Shanti Shwarup Mahto"
+  role: "Principal Investigator"
+  research_area: "Hydroclimatic studies, Remote Sensing, Climate Science"
+
+- name: "John Doe"
+  role: "PhD Student"
+  research_area: "Remote Sensing of Hydrology"
+
+- name: "Jane Smith"
+  role: "Research Assistant"
+  research_area: "Climate Change and Water Management"
