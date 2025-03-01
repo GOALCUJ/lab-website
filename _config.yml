@@ -1,20 +1,19 @@
-title: "Geospatial Observation and Applications Lab (GOAL)"
-description: "Research in geospatial analysis, remote sensing, and hydrological modeling."
-remote_theme: "mmistakes/minimal-mistakes"  # Using a professional Jekyll theme
+title: "GOAL: Geospatial Observations and Application Lab"
+description: "Research in hydroclimatic studies, remote sensing, and GIS."
+baseurl: "/lab-website"  # Set this to your repository name
+url: "https://GOALCUJ.github.io"  # Your GitHub Pages domain
 
-# Plugins
+navbar-links:
+  Home: "index.html"
+  About: "about.html"
+  Research: "research.html"
+  Publications: "publications.html"
+  Team: "team.html"
+  Opportunities: "opportunities.html"
+  Contact: "contact.html"
+
+theme: minima  # You can replace this with any Jekyll theme you prefer.
 plugins:
-  - jekyll-include-cache
   - jekyll-feed
+  - jekyll-seo-tag
   - jekyll-sitemap
-
-# Site Settings
-name: "GOAL Lab"
-author:
-  name: "Dr. Shanti Shwarup Mahto"
-  email: "ssmahto.clim@gmail.com"
-
-# Custom Styles
-sass:
-  sass_dir: _sass
-  style: compressed
