@@ -1,15 +1,17 @@
 ---
-layout: home
-title: "Welcome to GOAL Lab"
-author_profile: true
+layout: page
+title: "GOAL: Geospatial Observations and Application Lab"
+permalink: /
 ---
 
-The **Geospatial Observation and Applications Lab (GOAL)** at CUJ focuses on innovative research in geospatial science.
+# Welcome to GOAL
 
-📌 **Our Key Research Areas:**
-- Remote Sensing & GIS Applications
-- Hydrological & Climate Modeling
-- Drought Monitoring & Prediction
-- Land Use and Land Cover Change
+The **Geospatial Observations and Application Lab (GOAL)** focuses on cutting-edge research in remote sensing, GIS, and hydroclimatic studies. We aim to advance geospatial science for environmental monitoring, water resource management, and climate resilience.
 
-🚀 [Learn more about our Research](research/)
+Our key research areas include:
+- Remote sensing of hydrology and climate
+- Flash droughts and their impacts
+- Machine learning applications in geospatial analysis
+- Land use and land cover change monitoring
+
+[Learn more about our research →](/research/)
